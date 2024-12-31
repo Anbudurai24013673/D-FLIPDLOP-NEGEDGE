@@ -48,7 +48,7 @@ module d_ff_neg_edge (d, clk, rst, q);
   end
 endmodule
 ````
-![image](https://github.com/user-attachments/assets/c0355b0e-ec24-42ca-b3ba-66326085c6c4)
+
 Developed by: ANBUDURAI A
 
 RegisterNumber:24013673
